@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+### - 🔭 I’m currently working on setting up my personal website.
+### - 🌱 I’m currently learning R for statistical data analysis.
+### - 😄 Pronouns: she/her
+
 
 <!--
 **cemsall/cemsall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
